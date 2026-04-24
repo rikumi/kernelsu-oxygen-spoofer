@@ -1,0 +1,1 @@
+resetprop -n ro.oplus.image.system_ext.area "gdpr"
